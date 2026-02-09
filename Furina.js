@@ -1621,8 +1621,8 @@ During ${clockString(new Date() - user.afkTime)}
               isForwarded: true,
               mentionedJid: [m.sender],
               forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363186130999681@newsletter",
-                newsletterName: `ғᴜʀɪɴᴀ ʙʏ ғᴀʟʟᴢx💫`
+                newsletterJid: "120363404915600433@newsletter",
+                newsletterName: `Kado Beyond The Clouds`
               },
               externalAdReply: {
                 title: `Silahkan Daftar🍁`,
@@ -1779,7 +1779,7 @@ During ${clockString(new Date() - user.afkTime)}
       },
       message: {
         newsletterAdminInviteMessage: {
-          newsletterJid: "120363186130999681@newsletter",
+          newsletterJid: "120363404915600433@newsletter",
           newsletterName: "",
           caption: body
         }
@@ -1843,8 +1843,8 @@ During ${clockString(new Date() - user.afkTime)}
               isForwarded: true,
               mentionedJid: [m.sender],
               forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363186130999681@newsletter",
-                newsletterName: `ғᴜʀɪɴᴀ ʙʏ ғᴀʟʟᴢx💫`
+                newsletterJid: "120363404915600433@newsletter",
+                newsletterName: `Kado Beyond The Clouds`
               },
               externalAdReply: {
                 title: `Selamat Beribadah, Kak! 🕌`,
@@ -2182,7 +2182,7 @@ function startPrayerReminder(Raol404, city, country) {
                 forwardingScore: 999999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: "120363186130999681@newsletter",
+                  newsletterJid: "120363404915600433@newsletter",
                   newsletterName: `${namaSaluran}`,
                   serverMessageId: 145
                 }
@@ -5466,8 +5466,8 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               mentionedJid: [m.sender],
               forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363186130999681@newsletter",
-                newsletterName: `ғᴜʀɪɴᴀ ʙʏ ғᴀʟʟᴢx💫`
+                newsletterJid: "120363404915600433@newsletter",
+                newsletterName: `Kado Beyond The Clouds`
               },
                 externalAdReply: {
                   showAdAttribution: true,
@@ -5537,7 +5537,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5567,7 +5567,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5598,7 +5598,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5629,7 +5629,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5660,7 +5660,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5691,7 +5691,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5721,7 +5721,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5751,7 +5751,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5781,7 +5781,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5811,7 +5811,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5841,7 +5841,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -5871,7 +5871,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6069,7 +6069,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6099,7 +6099,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6129,7 +6129,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6156,7 +6156,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6186,7 +6186,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6216,7 +6216,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6246,7 +6246,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6273,7 +6273,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6300,7 +6300,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6327,7 +6327,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6354,7 +6354,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6381,7 +6381,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6408,7 +6408,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6435,7 +6435,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6462,7 +6462,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -6489,7 +6489,7 @@ Ketik *surrender* untuk menyerah dan mengakui kekalahan`;
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${global.ownername}`,
-                newsletterJid: `120363186130999681@newsletter`
+                newsletterJid: `120363404915600433@newsletter`
               },
               externalAdReply: {
                 showAdAttribution: true,
@@ -10757,8 +10757,8 @@ _Sekarang anda sudah bisa mengakses Furina MD_
               isForwarded: true,
               mentionedJid: [m.sender],
               forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363186130999681@newsletter",
-                newsletterName: `ғᴜʀɪɴᴀ ʙʏ ғᴀʟʟᴢx💫`
+                newsletterJid: "120363404915600433@newsletter",
+                newsletterName: `Kado Beyond The Clouds`
               },
               externalAdReply: {
                 title: `Register succes ✓`,
@@ -11386,7 +11386,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
               isForwarded: true,
               mentionedJid: [m.sender],
               forwardedNewsletterMessageInfo: {
-                newsletterJid: "120363186130999681@newsletter",
+                newsletterJid: "120363404915600433@newsletter",
                 newsletterName: `halo ${m.pushname}`
               },
               externalAdReply: {
@@ -11616,7 +11616,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -11795,7 +11795,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -11910,7 +11910,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12025,7 +12025,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12139,7 +12139,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12253,7 +12253,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12367,7 +12367,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12482,7 +12482,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12595,7 +12595,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12709,7 +12709,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -12822,7 +12822,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -13022,7 +13022,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -13136,7 +13136,7 @@ ${cpus[0].model.trim()} (${cpu.speed} MHZ)\n${Object.keys(cpu.times).map(type =>
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -21310,11 +21310,11 @@ break;
               isForwarded: true,
               mentionedJid: [m.sender],
               businessMessageForwardInfo: {
-                businessOwnerJid: "120363186130999681@newsletter"
+                businessOwnerJid: "120363404915600433@newsletter"
               },
               forwardedNewsletterMessageInfo: {
                 newsletterName: `${text}`,
-                newsletterJid: "120363186130999681@newsletter"
+                newsletterJid: "120363404915600433@newsletter"
               }
             }
           }, {
@@ -22097,7 +22097,7 @@ case 'artai': {
                 y: 0.8459166884422302
               }],
               newsletter: {
-                newsletterJid: "120363186130999681@newsletter",
+                newsletterJid: "120363404915600433@newsletter",
                 serverMessageId: 3033,
                 newsletterName: "DinzID & Qiaa",
                 contentType: "UPDATE_CARD"
@@ -36421,7 +36421,7 @@ case 'removewm': case 'nowm': {
                       forwardingScore: 999,
                       isForwarded: true,
                       forwardedNewsletterMessageInfo: {
-                        newsletterJid: "120363186130999681@newsletter",
+                        newsletterJid: "120363404915600433@newsletter",
                         newsletterName: ownername,
                         serverMessageId: 143
                       }
@@ -45399,7 +45399,7 @@ ${meg.result}`);
                 forwardingScore: 2025,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: "120363186130999681@newsletter",
+                  newsletterJid: "120363404915600433@newsletter",
                   serverMessageId: null,
                   newsletterName: "Furina"
                 },
@@ -48007,7 +48007,7 @@ Cieeee, What's Going On❤️💖👀`,
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                      newsletterJid: "120363186130999681@newsletter",
+                      newsletterJid: "120363404915600433@newsletter",
                       newsletterName: "Furina",
                       serverMessageId: 143
                     }
